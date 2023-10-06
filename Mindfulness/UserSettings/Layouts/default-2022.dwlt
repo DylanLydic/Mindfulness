@@ -19,7 +19,7 @@ MonoBehaviour:
     width: 2560
     height: 1349
   m_ShowMode: 4
-  m_Title: Scene
+  m_Title: Hierarchy
   m_RootView: {fileID: 6}
   m_MinSize: {x: 875, y: 300}
   m_MaxSize: {x: 10000, y: 10000}
@@ -48,7 +48,7 @@ MonoBehaviour:
   m_MinSize: {x: 300, y: 100}
   m_MaxSize: {x: 24288, y: 16192}
   vertical: 0
-  controlID: 48
+  controlID: 49
 --- !u!114 &3
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -223,7 +223,7 @@ MonoBehaviour:
   m_MinSize: {x: 200, y: 100}
   m_MaxSize: {x: 16192, y: 16192}
   vertical: 1
-  controlID: 49
+  controlID: 50
 --- !u!114 &10
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -248,7 +248,7 @@ MonoBehaviour:
   m_MinSize: {x: 200, y: 50}
   m_MaxSize: {x: 16192, y: 8096}
   vertical: 0
-  controlID: 50
+  controlID: 51
 --- !u!114 &11
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -356,7 +356,7 @@ MonoBehaviour:
     m_SkipHidden: 0
     m_SearchArea: 1
     m_Folders:
-    - Assets/RocksPack/Prefab
+    - Assets/DreamForestTree
     m_Globs: []
     m_OriginalText: 
     m_ImportLogFlags: 0
@@ -364,16 +364,16 @@ MonoBehaviour:
   m_ViewMode: 1
   m_StartGridSize: 64
   m_LastFolders:
-  - Assets/RocksPack/Prefab
+  - Assets/DreamForestTree
   m_LastFoldersGridSize: -1
   m_LastProjectPath: C:\Users\dyl5\Documents\GitHub\Mindfulness\Mindfulness
   m_LockTracker:
     m_IsLocked: 0
   m_FolderTreeState:
     scrollPos: {x: 0, y: 0}
-    m_SelectedIDs: 4c670000
-    m_LastClickedID: 26444
-    m_ExpandedIDs: 00000000a8630000aa630000ac630000d2630000d46300004a67000000ca9a3b
+    m_SelectedIDs: 30670000
+    m_LastClickedID: 26416
+    m_ExpandedIDs: 00000000e4660000e6660000e8660000ec660000f2660000f4660000f6660000f8660000fc660000fe660000006700000267000006760000a67d0000aa7d000000ca9a3b
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -401,7 +401,7 @@ MonoBehaviour:
     scrollPos: {x: 0, y: 0}
     m_SelectedIDs: 
     m_LastClickedID: 0
-    m_ExpandedIDs: 00000000a8630000aa630000ac630000
+    m_ExpandedIDs: 00000000e4660000e6660000e8660000ea660000ec660000ee660000f0660000f2660000f4660000f6660000f8660000fa660000fc660000fe6600000067000002670000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -429,7 +429,7 @@ MonoBehaviour:
     m_SelectedInstanceIDs: 
     m_LastClickedInstanceID: 0
     m_HadKeyboardFocusLastEvent: 1
-    m_ExpandedInstanceIDs: c6230000
+    m_ExpandedInstanceIDs: c62300003264000036640000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -445,7 +445,7 @@ MonoBehaviour:
       m_IsRenaming: 0
       m_OriginalEventType: 11
       m_IsRenamingFilename: 1
-      m_ClientGUIView: {fileID: 5}
+      m_ClientGUIView: {fileID: 11}
     m_CreateAssetUtility:
       m_EndAction: {fileID: 0}
       m_InstanceID: 0
@@ -541,23 +541,23 @@ MonoBehaviour:
   m_SceneHierarchy:
     m_TreeViewState:
       scrollPos: {x: 0, y: 0}
-      m_SelectedIDs: e65f0000
-      m_LastClickedID: 24550
-      m_ExpandedIDs: 2efbffff
+      m_SelectedIDs: a019cdff
+      m_LastClickedID: -3335776
+      m_ExpandedIDs: 3a1ecdff0e36cdffba60cdffc684cdff4611cefffebccefffe37d0ff7a38d0ff3a3ad0ff4e59d0ff6890d0ffbee6d2ff14f5d2ffc456d3ff4862d5ff0c63d5ff1863d5fff48dd5ff0421d6ffbea3d6ff42a5d6ff4ea5d6ffc25dd7ffb4d5d7ff2efbfffff45f00005a60000096870000529f000008a00000
       m_RenameOverlay:
         m_UserAcceptedRename: 0
-        m_Name: 
-        m_OriginalName: 
+        m_Name: Mountain
+        m_OriginalName: Mountain
         m_EditFieldRect:
           serializedVersion: 2
           x: 0
           y: 0
           width: 0
           height: 0
-        m_UserData: 0
+        m_UserData: -3130822
         m_IsWaitingForDelay: 0
         m_IsRenaming: 0
-        m_OriginalEventType: 11
+        m_OriginalEventType: 0
         m_IsRenamingFilename: 0
         m_ClientGUIView: {fileID: 4}
       m_SearchString: 
@@ -605,8 +605,8 @@ MonoBehaviour:
       floating: 0
       collapsed: 0
       displayed: 1
-      snapOffset: {x: 0, y: 0}
-      snapOffsetDelta: {x: -166, y: -26}
+      snapOffset: {x: -166, y: -26}
+      snapOffsetDelta: {x: 0, y: 0}
       snapCorner: 3
       id: Tool Settings
       index: 0
@@ -878,7 +878,7 @@ MonoBehaviour:
       floating: 0
       collapsed: 0
       displayed: 1
-      snapOffset: {x: 48, y: 48}
+      snapOffset: {x: 48, y: 10}
       snapOffsetDelta: {x: 0, y: 0}
       snapCorner: 0
       id: UnityEditor.SceneViewCameraOverlay
@@ -897,9 +897,9 @@ MonoBehaviour:
   m_PlayAudio: 0
   m_AudioPlay: 0
   m_Position:
-    m_Target: {x: 86.68827, y: 2.312627, z: 55.105335}
+    m_Target: {x: 0, y: 0, z: 0}
     speed: 2
-    m_Value: {x: 86.68827, y: 2.312627, z: 55.105335}
+    m_Value: {x: 0.000025864963, y: 0.0000008754886, z: 0.000009174332}
   m_RenderMode: 0
   m_CameraMode:
     drawMode: 0
@@ -921,10 +921,10 @@ MonoBehaviour:
       m_Fade:
         m_Target: 0
         speed: 2
-        m_Value: 0
+        m_Value: 1
       m_Color: {r: 0.5, g: 0.5, b: 0.5, a: 0.4}
       m_Pivot: {x: 0, y: 0, z: 0}
-      m_Size: {x: 0, y: 0}
+      m_Size: {x: 1, y: 1}
     yGrid:
       m_Fade:
         m_Target: 1
@@ -945,13 +945,13 @@ MonoBehaviour:
     m_GridAxis: 1
     m_gridOpacity: 0.5
   m_Rotation:
-    m_Target: {x: 0.03805331, y: 0.7973214, z: -0.050544526, w: 0.60023665}
+    m_Target: {x: -0.35380623, y: -0.18126589, z: 0.070099495, w: -0.91490704}
     speed: 2
-    m_Value: {x: 0.038128924, y: 0.7964168, z: -0.05048718, w: 0.60142946}
+    m_Value: {x: -0.3535935, y: -0.18400936, z: 0.07116042, w: -0.9143569}
   m_Size:
-    m_Target: 3.84551
+    m_Target: 22.663269
     speed: 2
-    m_Value: 3.679914
+    m_Value: 22.663269
   m_Ortho:
     m_Target: 0
     speed: 2
