@@ -19,7 +19,7 @@ MonoBehaviour:
     width: 2560
     height: 1349
   m_ShowMode: 4
-  m_Title: Inspector
+  m_Title: Hierarchy
   m_RootView: {fileID: 6}
   m_MinSize: {x: 875, y: 300}
   m_MaxSize: {x: 10000, y: 10000}
@@ -48,7 +48,7 @@ MonoBehaviour:
   m_MinSize: {x: 300, y: 100}
   m_MaxSize: {x: 24288, y: 16192}
   vertical: 0
-  controlID: 50
+  controlID: 113
 --- !u!114 &3
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -223,7 +223,7 @@ MonoBehaviour:
   m_MinSize: {x: 200, y: 100}
   m_MaxSize: {x: 16192, y: 16192}
   vertical: 1
-  controlID: 51
+  controlID: 61
 --- !u!114 &10
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -336,9 +336,9 @@ MonoBehaviour:
     m_IsLocked: 0
   m_FolderTreeState:
     scrollPos: {x: 0, y: 0}
-    m_SelectedIDs: 90670000
-    m_LastClickedID: 26512
-    m_ExpandedIDs: 00000000886700008a6700008c6700008e67000090670000926700009467000096670000986700009a6700009c6700009e670000a0670000a2670000a6670000a8670000aa670000ac670000b0670000ee670000f6670000f867000000ca9a3bffffff7f
+    m_SelectedIDs: 9c670000
+    m_LastClickedID: 26524
+    m_ExpandedIDs: 000000009467000096670000986700009a6700009c6700009e670000a0670000a2670000a4670000a6670000a8670000aa670000ac670000ae670000b0670000b2670000b4670000b6670000d867000000ca9a3bffffff7f
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -366,7 +366,7 @@ MonoBehaviour:
     scrollPos: {x: 0, y: 0}
     m_SelectedIDs: 
     m_LastClickedID: 0
-    m_ExpandedIDs: 0000000086670000886700008a6700008c6700008e67000090670000926700009467000096670000986700009a6700009c6700009e670000a0670000a2670000a4670000a6670000a8670000aa670000ac670000ae670000b0670000
+    m_ExpandedIDs: 000000009467000096670000986700009a6700009c6700009e670000a0670000a2670000a4670000a6670000a8670000aa670000ac670000ae670000b0670000b2670000b4670000b6670000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -506,25 +506,25 @@ MonoBehaviour:
   m_SceneHierarchy:
     m_TreeViewState:
       scrollPos: {x: 0, y: 0}
-      m_SelectedIDs: 32ac0000
-      m_LastClickedID: 44082
-      m_ExpandedIDs: e4a1e6ffe6a1e6ffe216e9ffe816e9ffc219e9ff4648e9ff064ce9ff7270e9ff8ca0e9ffdc02fbffd8faffff2efbffff72600000eaac0000f0ac0000
+      m_SelectedIDs: dcbaf9ff
+      m_LastClickedID: -410916
+      m_ExpandedIDs: 2efbffffac600000
       m_RenameOverlay:
         m_UserAcceptedRename: 0
-        m_Name: 
-        m_OriginalName: 
+        m_Name: Waterfall Wall
+        m_OriginalName: Waterfall Wall
         m_EditFieldRect:
           serializedVersion: 2
           x: 0
           y: 0
           width: 0
           height: 0
-        m_UserData: 0
+        m_UserData: 24674
         m_IsWaitingForDelay: 0
         m_IsRenaming: 0
-        m_OriginalEventType: 11
+        m_OriginalEventType: 0
         m_IsRenamingFilename: 0
-        m_ClientGUIView: {fileID: 0}
+        m_ClientGUIView: {fileID: 4}
       m_SearchString: 
     m_ExpandedScenes: []
     m_CurrenRootInstanceID: 0
@@ -862,9 +862,9 @@ MonoBehaviour:
   m_PlayAudio: 0
   m_AudioPlay: 0
   m_Position:
-    m_Target: {x: 236.96378, y: 97.95446, z: -89.62696}
+    m_Target: {x: -23.933212, y: -54.56585, z: -112.68386}
     speed: 2
-    m_Value: {x: 236.96378, y: 97.95446, z: -89.62696}
+    m_Value: {x: -23.933212, y: -54.56585, z: -112.68386}
   m_RenderMode: 0
   m_CameraMode:
     drawMode: 0
@@ -910,13 +910,13 @@ MonoBehaviour:
     m_GridAxis: 1
     m_gridOpacity: 0.5
   m_Rotation:
-    m_Target: {x: -0.1025393, y: 0.12114581, z: -0.012691455, w: -0.98730123}
+    m_Target: {x: -0.20804195, y: 0.70205384, z: -0.22767237, w: -0.6419715}
     speed: 2
-    m_Value: {x: -0.102533385, y: 0.12113882, z: -0.012690723, w: -0.98724425}
+    m_Value: {x: -0.20802914, y: 0.7020106, z: -0.22765833, w: -0.64193195}
   m_Size:
-    m_Target: 1.2176026
+    m_Target: 166.85907
     speed: 2
-    m_Value: 1.2176026
+    m_Value: 166.85907
   m_Ortho:
     m_Target: 0
     speed: 2
@@ -934,7 +934,7 @@ MonoBehaviour:
     m_FarClip: 10000
     m_DynamicClip: 1
     m_OcclusionCulling: 0
-  m_LastSceneViewRotation: {x: 0.3199735, y: -0.58787704, z: 0.27216017, w: 0.69138765}
+  m_LastSceneViewRotation: {x: -0.21468899, y: 0.5222756, z: -0.13790144, w: -0.81378347}
   m_LastSceneViewOrtho: 0
   m_ReplacementShader: {fileID: 0}
   m_ReplacementString: 
@@ -1012,7 +1012,7 @@ MonoBehaviour:
   m_SerializedViewNames:
   - UnityEditor.DeviceSimulation.SimulatorWindow
   m_SerializedViewValues:
-  - D:\Github\emi18\Mindfulness\Mindfulness\Library\PlayModeViewStates\51f7a674403f5de419df2fa64f453f2a
+  - D:\Github\emi18\Mindfulness\Mindfulness\Library\PlayModeViewStates\47f00af6d2aec884caca174b955ce7fc
   m_PlayModeViewName: GameView
   m_ShowGizmos: 0
   m_TargetDisplay: 0
