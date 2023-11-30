@@ -175,6 +175,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: stone_02 w_collider (5)
       objectReference: {fileID: 0}
+    - target: {fileID: 6795972030990151502, guid: 30b13712cbf2c1d4a834cf49bd9f5784, type: 3}
+      propertyPath: m_Mass
+      value: 2
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -820,6 +824,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: stone_02 w_collider (7)
       objectReference: {fileID: 0}
+    - target: {fileID: 6795972030990151502, guid: 30b13712cbf2c1d4a834cf49bd9f5784, type: 3}
+      propertyPath: m_Mass
+      value: 2
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -1076,6 +1084,10 @@ PrefabInstance:
     - target: {fileID: 6044810415489156660, guid: 30b13712cbf2c1d4a834cf49bd9f5784, type: 3}
       propertyPath: m_Name
       value: stone_02 w_collider
+      objectReference: {fileID: 0}
+    - target: {fileID: 6795972030990151502, guid: 30b13712cbf2c1d4a834cf49bd9f5784, type: 3}
+      propertyPath: m_Mass
+      value: 2
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -6502,6 +6514,10 @@ PrefabInstance:
     - target: {fileID: 6044810415489156660, guid: 30b13712cbf2c1d4a834cf49bd9f5784, type: 3}
       propertyPath: m_Name
       value: stone_02 w_collider (8)
+      objectReference: {fileID: 0}
+    - target: {fileID: 6795972030990151502, guid: 30b13712cbf2c1d4a834cf49bd9f5784, type: 3}
+      propertyPath: m_Mass
+      value: 2
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -12544,6 +12560,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: stone_02 w_collider (4)
       objectReference: {fileID: 0}
+    - target: {fileID: 6795972030990151502, guid: 30b13712cbf2c1d4a834cf49bd9f5784, type: 3}
+      propertyPath: m_Mass
+      value: 2
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -12606,6 +12626,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: stone_02 w_collider (3)
       objectReference: {fileID: 0}
+    - target: {fileID: 6795972030990151502, guid: 30b13712cbf2c1d4a834cf49bd9f5784, type: 3}
+      propertyPath: m_Mass
+      value: 2
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -12667,6 +12691,10 @@ PrefabInstance:
     - target: {fileID: 6044810415489156660, guid: 30b13712cbf2c1d4a834cf49bd9f5784, type: 3}
       propertyPath: m_Name
       value: stone_02 w_collider (6)
+      objectReference: {fileID: 0}
+    - target: {fileID: 6795972030990151502, guid: 30b13712cbf2c1d4a834cf49bd9f5784, type: 3}
+      propertyPath: m_Mass
+      value: 2
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -12787,6 +12815,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: stone_02 w_collider (2)
       objectReference: {fileID: 0}
+    - target: {fileID: 6795972030990151502, guid: 30b13712cbf2c1d4a834cf49bd9f5784, type: 3}
+      propertyPath: m_Mass
+      value: 2
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -12849,6 +12881,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: stone_02 w_collider (9)
       objectReference: {fileID: 0}
+    - target: {fileID: 6795972030990151502, guid: 30b13712cbf2c1d4a834cf49bd9f5784, type: 3}
+      propertyPath: m_Mass
+      value: 2
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -12910,6 +12946,10 @@ PrefabInstance:
     - target: {fileID: 6044810415489156660, guid: 30b13712cbf2c1d4a834cf49bd9f5784, type: 3}
       propertyPath: m_Name
       value: stone_02 w_collider (10)
+      objectReference: {fileID: 0}
+    - target: {fileID: 6795972030990151502, guid: 30b13712cbf2c1d4a834cf49bd9f5784, type: 3}
+      propertyPath: m_Mass
+      value: 2
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -13039,6 +13079,10 @@ PrefabInstance:
     - target: {fileID: 6044810415489156660, guid: 30b13712cbf2c1d4a834cf49bd9f5784, type: 3}
       propertyPath: m_Name
       value: stone_02 w_collider (1)
+      objectReference: {fileID: 0}
+    - target: {fileID: 6795972030990151502, guid: 30b13712cbf2c1d4a834cf49bd9f5784, type: 3}
+      propertyPath: m_Mass
+      value: 2
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -18618,6 +18662,10 @@ PrefabInstance:
     - target: {fileID: 6044810415489156660, guid: 30b13712cbf2c1d4a834cf49bd9f5784, type: 3}
       propertyPath: m_Name
       value: stone_02 w/collider
+      objectReference: {fileID: 0}
+    - target: {fileID: 6795972030990151502, guid: 30b13712cbf2c1d4a834cf49bd9f5784, type: 3}
+      propertyPath: m_Mass
+      value: 2
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
